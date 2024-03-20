@@ -1,0 +1,30 @@
+I have converted the Multi-Travelling Salesman Problem into traditional TSP as previously used by sorting the parcels in increasing order of distances, then assigning the first N//2 + 5 parcels to the first vehicle and remaining to the second vehicle, and then passing the arguments as previously to the functions.
+
+
+
+
+For datasets 1
+_________________________________________________________________________
+Held-Karp algorithm
+
+Time complexity: Theta((n^2)*(2^n))
+
+Space complexity: Theta(n*(2^n))
+
+Reference: https://en.wikipedia.org/wiki/Held%E2%80%93Karp_algorithm
+
+
+
+
+
+
+For dataset 2
+_________________________________________________________________________
+
+Nearest Neighbour Algorithm
+
+Time complexity: Theta(n^2)
+
+Space complexity: Theta(n)
+
+

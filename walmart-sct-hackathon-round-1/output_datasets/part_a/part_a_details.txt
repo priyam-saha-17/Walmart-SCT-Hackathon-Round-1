@@ -1,0 +1,25 @@
+For datasets 1 to 4
+_________________________________________________________________________
+Held-Karp algorithm
+
+Time complexity: Theta((n^2)*(2^n))
+
+Space complexity: Theta(n*(2^n))
+
+Reference: https://en.wikipedia.org/wiki/Held%E2%80%93Karp_algorithm
+
+
+
+
+
+
+For dataset 5
+_________________________________________________________________________
+
+Nearest Neighbour Algorithm
+
+Time complexity: Theta(n^2)
+
+Space complexity: Theta(n)
+
+

@@ -1,0 +1,8 @@
+For datasets 1:
+
+python code/part_b/run_held_karp.py input_datasets/part_b/part_b_input_dataset_1.csv
+
+
+For dataset 2:
+
+python code/part_b/run_nearest_neighbour.py input_datasets/part_b/part_b_input_dataset_2.csv
